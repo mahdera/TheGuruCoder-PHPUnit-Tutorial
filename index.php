@@ -17,4 +17,5 @@ $pages = new \Controllers\Core\Web\Pages();
 <pre><?php var_dump($pages->returnArray());?></pre>
 
 </body>
+
 </html>
